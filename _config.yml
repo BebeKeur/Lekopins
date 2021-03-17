@@ -6,10 +6,9 @@ description: >
   My personnal documentation about mushrooms.
 
 version:          1.0
-gitbook_version:  3.2.3
 
 url:              'https://bebekeur.github.io'
-baseurl:          '_posts/'
+baseurl:          ''
 rss:              RSS
 
 # markdown render engine.
