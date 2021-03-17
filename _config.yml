@@ -9,7 +9,7 @@ version:          1.0
 gitbook_version:  3.2.3
 
 url:              'https://bebekeur.github.io'
-baseurl:          '/_post'
+baseurl:          '/'
 rss:              RSS
 
 # markdown render engine.
